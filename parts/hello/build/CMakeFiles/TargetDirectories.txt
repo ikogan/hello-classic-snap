@@ -1,0 +1,7 @@
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/install/strip.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/edit_cache.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/hello.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/rebuild_cache.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/list_install_components.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/install/local.dir
+/home/kogan/Documents/Code/hello-classic-snap/parts/hello/build/CMakeFiles/install.dir

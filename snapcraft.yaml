@@ -1,0 +1,15 @@
+name: hello-classic
+version: 0.1
+summary: Hello World with Classic Confinement
+confinement: classic
+description: |
+  This provides a very simple snap that requires classic
+  confinement in order to support tests and experiments.
+parts:
+  hello:
+    plugin: cmake
+    source: src
+
+apps:
+  hello-classic-cli:
+    command: hello
